@@ -12,6 +12,9 @@
 .cabecalho-imagem{
     width: 20%;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .cabecalho-lista-iten{
     display: inline-block;
     margin: 0 16px;
@@ -27,4 +30,15 @@
     background-image: linear-gradient(#424e61,#4EBFE9);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
 }
